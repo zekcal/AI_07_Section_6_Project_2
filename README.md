@@ -1,4 +1,4 @@
-# Emotion_Analysis-YouTube_Data_Analysis
+# Emotion_Analysis_and_YouTube_Data_Analysis
 #### 1. 코드스테이츠 AI/빅 데이터 부트캠프 섹션 6의 2번째 프로젝트입니다.  
 코드 스테이츠 AI/빅 데이터 부트캠프에서 약 4주간(22.03.02 ~ 22.03.29) 진행한 기업 협업 프로젝트입니다.
 

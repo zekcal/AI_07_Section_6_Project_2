@@ -5,7 +5,7 @@ NDA(비밀유지서약서)를 작성했기 때문에 전반적으로 간단히 �
 - 데이터는 일부는 기업에서 제공받고 일부는 유투브 API와 다른 패키지를 조합해 확보함
 
 #### 2. 프로젝트 진행 과정
-![image](https://user-images.githubusercontent.com/89769294/176851762-d35ef321-f4ae-46bb-b668-337b866cfbe2.png)
+![image](https://user-images.githubusercontent.com/89769294/176851946-f1794b2c-9aa8-4866-884b-c9d832ada9a4.png)
 기획 - 전처리 및 감정 평가 - 유투브 데이터 확보 및 분석
 - **기획**
   - 2인 1조의 팀으로 진행되어 어떤 방식으로 진행해 나갈 것인지에 대한 논의가 필요
